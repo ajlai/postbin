@@ -37,6 +37,10 @@ module PostBin
       erb :index
     end
     
+    get '/favicon.ico' do
+      raise Sinatra::NotFound
+    end
+    
     get '/bins' do
       erb :index
     end

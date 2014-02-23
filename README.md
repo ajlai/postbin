@@ -1,7 +1,7 @@
 postbin
 =======
 
-Postbin written in Sinatra
+Heroku self-hostable Postbin written in Sinatra
 
 ### Instructions for self-hosting on Heroku
 #### 1\. Clone it
